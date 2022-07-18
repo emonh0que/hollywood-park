@@ -1,0 +1,10 @@
+.choosenActor{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.choosenActor img{
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
+}

@@ -1,0 +1,18 @@
+.cast-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+}
+.casting {
+    
+    margin-left: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+    margin-bottom: 15px;
+}
+
+.selected-people{
+    color: white;
+    margin-left: 50px;
+}

@@ -1,0 +1,17 @@
+.show-casting{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #513252;
+    color: lightgray;
+}
+
+.show-casting img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.show-casting button {
+    background-color: #FFC18E;
+    padding: 3px 10px;
+}
